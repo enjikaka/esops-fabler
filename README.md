@@ -12,3 +12,4 @@
 - [Kapitel 10. Harpspelaren](10)
 - [Kapitel 11. Lejonet och råttan](11)
 - [Kapitel 12. Leoparden och räven](12)
+- [Kapitel 13. Sagornas kraft](13)
