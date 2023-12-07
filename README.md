@@ -13,4 +13,4 @@
 - [Kapitel 11. Lejonet och råttan](11)
 - [Kapitel 12. Leoparden och räven](12)
 - [Kapitel 13. Sagornas kraft](13)
-- [Kapitel 13. Vargen och tranan](14)
+- [Kapitel 14. Vargen och tranan](14)
