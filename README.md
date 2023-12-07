@@ -16,3 +16,5 @@
 - [Kapitel 14. Vargen och tranan](14)
 - [Kapitel 15. Räven och storken](15)
 - [Kapitel 16. Eken och vassen](16)
+- [Kapitel 17. De resande och björnen](17)
+- [Kapitel 18. Hjorten som beskådade sin spegelbild i dammen](18)
